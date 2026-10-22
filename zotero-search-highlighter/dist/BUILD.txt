@@ -1,0 +1,2 @@
+Built in Docker with Node v24.22.1
+Target: Zotero 10.0.x / Firefox 140

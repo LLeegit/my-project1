@@ -1,0 +1,6 @@
+node_modules/
+build/
+test-results/
+dist/*-source.zip
+dist/zotero-search-highlighter-0.1.0.xpi
+dist/zotero-search-highlighter-0.1.1.xpi

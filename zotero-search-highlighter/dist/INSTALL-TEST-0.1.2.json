@@ -1,0 +1,36 @@
+{
+  "appVersion": "10.0.6",
+  "platform": "Linux",
+  "cases": [
+    {
+      "path": "/workspace/dist/zotero-search-highlighter-0.1.1.xpi",
+      "state": 3,
+      "error": 0,
+      "version": "0.1.1",
+      "appDisabled": true,
+      "isCompatible": true,
+      "isPlatformCompatible": true,
+      "providesUpdatesSecurely": false
+    },
+    {
+      "path": "/workspace/dist/zotero-search-highlighter-0.1.2.xpi",
+      "state": 3,
+      "error": 0,
+      "version": "0.1.2",
+      "appDisabled": false,
+      "isCompatible": true,
+      "isPlatformCompatible": true,
+      "providesUpdatesSecurely": true,
+      "installed": true,
+      "isActive": true,
+      "menuPresent": true,
+      "stylePresent": true,
+      "titleHighlight": "Cell",
+      "creatorHighlight": "Cell",
+      "infoHighlightCount": 4,
+      "infoClearWorked": true,
+      "menuRemovedOnDisable": true
+    }
+  ],
+  "checkUpdateSecurity": true
+}

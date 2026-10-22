@@ -1,0 +1,7 @@
+{
+  "version": "10.0.6",
+  "buildID": "20261007153950",
+  "source": "C:/Program Files/Zotero/omni.ja!modules/Extension.sys.mjs",
+  "requiredFieldsGuard": "    if (this.type == \"extension\") {\n      if (!manifest.applications?.zotero?.id) {\n        this.manifestError(\"applications.zotero.id not provided\");\n      }\n      if (!manifest.applications?.zotero?.update_url) {\n        this.manifestError(\"applications.zotero.update_url not provided\");\n      }\n      if (!manifest.applications?.zotero?.strict_max_version) {\n        this.manifestError(\"applications.zotero.strict_max_version not provided\");\n      }\n    }",
+  "hasServicesModule": false
+}

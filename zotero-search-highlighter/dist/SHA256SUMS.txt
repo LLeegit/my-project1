@@ -1,0 +1,1 @@
+6441b7a32daceedbf5f710cdcb31f84f6cb3c11bf47574e88cbbe0f1f899d5d7  zotero-search-highlighter-0.1.2.xpi
